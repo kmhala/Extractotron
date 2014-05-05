@@ -182,6 +182,7 @@ North America	5318313	32.577	-111.328	31.944	-110.555	tucson	Tucson
 North America	6173331	49.475	-123.513	48.669	-121.777	vancouver	Vancouver
 North America	6174041	48.871	-124.063	48.054	-122.568	victoria	Victoria
 North America	4140963;4347778	39.631	-77.599	38.539	-76.058	dc-baltimore	Washington D.C., Baltimore
+North America 80.2744,42.1960,-77.4838,43.3392 Erie county, New york
 Oceania	2193733	-36.410	174.223	-37.348	175.314	auckland	Auckland
 Oceania	1642911	-5.881	106.435	-6.615	107.160	jakarta	Jakarta
 Oceania	2077456	-34.906	148.564	-35.568	149.721	canberra	Canberra
